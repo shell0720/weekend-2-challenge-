@@ -1,0 +1,18 @@
+h1 {
+  background: blue;
+  text-align: center;
+  border-radius: 5px;
+}
+
+p{
+  margin: 10px 20px;
+  font-style: comic;
+  font-size: 25px;
+  padding: 20px;
+}
+
+.people {
+  background-color: lightgrey;
+  margin: 0 100px;
+  border-radius: 20px;
+}
