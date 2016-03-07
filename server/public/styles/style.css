@@ -1,7 +1,6 @@
-h1 {
-  background: blue;
+.carousel {
   text-align: center;
-  border-radius: 5px;
+  margin: 50px;
 }
 
 p{
@@ -13,6 +12,22 @@ p{
 
 .people {
   background-color: lightgrey;
-  margin: 0 100px;
+  margin: 0 200px;
   border-radius: 20px;
+}
+
+.index-display {
+  border-radius: 50px;
+  background-color: grey;
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+}
+
+.highlight {
+  background-color: red;
+}
+
+.next {
+  float: right;
 }
